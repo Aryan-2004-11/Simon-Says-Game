@@ -8,7 +8,7 @@ let h2= document.querySelector("h2");
 
 document.addEventListener("keypress",function(){
     if(started==false){
-        console.log("Game has started");
+        console.log("Game has started .");
         started = true;
         levelup();       
     }
