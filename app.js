@@ -14,7 +14,6 @@ document.addEventListener("keypress",function(){
     }
    
     
-    
 });
 function btnflash(btn){
     btn.classList.add("flash");
